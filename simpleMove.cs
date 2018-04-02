@@ -14,7 +14,7 @@ public class simpleMove : MonoBehaviour {
     public KeyCode rightKeyAlt = KeyCode.RightArrow;
     public KeyCode downKeyAlt = KeyCode.DownArrow;
 
-    float rotateSpeed = 1;
+    public float rotateSpeed = 1;
 	
 	// Update is called once per frame
 	void Update () {

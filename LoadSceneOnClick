@@ -1,3 +1,5 @@
+//load scene based on that scene's index number in the build settings - add main menu as the first scene(0) in the build settings
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

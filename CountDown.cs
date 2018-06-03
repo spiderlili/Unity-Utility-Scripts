@@ -3,7 +3,7 @@
  using System.Collections;
  
  public class CountDown : MonoBehaviour
- {
+ { 
      float timeLeft = 60.0f;
      public Text text;
      
